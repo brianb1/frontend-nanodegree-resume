@@ -28,7 +28,7 @@ var bio = {
   "name": "Brian",
   "role": "Developer",
   "contacts" : {
-    "mobile" : "516-515-1266",
+    "mobile" : "415-514-1233",
     "email" : "brian@email.com",
     "github" : "brianb1",
     "twitter" : "@brian",
