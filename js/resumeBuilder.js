@@ -12,7 +12,7 @@
 //  $("#main").append(funThoughts);
 
 
-var name = "Brian Boncy";
+var name = "Brian";
 var formattedName = HTMLheaderName.replace("%data%", name);
 
 
@@ -29,10 +29,10 @@ var bio = {
   "role": "Developer",
   "contacts" : {
     "mobile" : "516-515-1266",
-    "email" : "bboncy@gmail.com",
+    "email" : "brian@email.com",
     "github" : "brianb1",
-    "twitter" : "@mrbrian_b",
-    "location":"San Francisco"
+    "twitter" : "@brian",
+    "location":"Oakland"
   },
   "welcome message" :"Thank You for stopping by!",
   "skills": "HTML/CSS/Javascript",
